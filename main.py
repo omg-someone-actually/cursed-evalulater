@@ -1,1 +1,1 @@
-if[_:=(...)]:{(lambda:exec(f"open(1, 'w').write('Result'+str({input('>>')}))"))()};
+if[_:=(...)]:{(lambda:exec(f"open(1, 'w').write('Result:'+str({input('>>')}))"))()};
